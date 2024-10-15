@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gutta\\Desktop\\Academy CSharp\\App1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCFB6017-0677-498C-BA2C-7683D58E9557}|App1\\App1.csproj|c:\\users\\gutta\\desktop\\academy csharp\\app1\\app1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCFB6017-0677-498C-BA2C-7683D58E9557}|App1\\App1.csproj|solutionrelative:app1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gutta\\Desktop\\Academy CSharp\\App1\\App1\\Program.cs",
+              "RelativeDocumentMoniker": "App1\\Program.cs",
+              "ToolTip": "C:\\Users\\gutta\\Desktop\\Academy CSharp\\App1\\App1\\Program.cs",
+              "RelativeToolTip": "App1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:15:30.895Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
